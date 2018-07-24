@@ -3,5 +3,5 @@ Bit People is a single page application created using React.js, JavaScript and B
 
 In order to start an application, you have to open terminal and type:
 
-yarn install
-yarn start# BitPeople
+1. yarn install
+2. yarn start
