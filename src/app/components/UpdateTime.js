@@ -2,8 +2,6 @@ import React from 'react';
 
 export const UpdateTime = () => {
 
-
-
     const getMilliseconds = () => {
 
         let lastUpdate = localStorage.getItem("updateTime");
@@ -27,11 +25,9 @@ export const UpdateTime = () => {
         };
     }
 
-
     const countTime = () => {
 
         let date = getMilliseconds();
-
 
         if (date.seconds >= 0) {
             return `Last update: ${date.seconds} seconds ago`;

@@ -3,7 +3,6 @@ import { SearchBar } from '../components/search/SearchBar';
 import { UserList } from '../components/UserList';
 import { userService } from '../../services/userService';
 import { Header } from '../partials/Header';
-import { Footer } from '../partials/Footer';
 
 export class Home extends Component {
     constructor() {
