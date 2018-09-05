@@ -2,6 +2,7 @@
   "name": "react-bit-people",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kristinatika.gitlab.com.io/BitPeople",
   "dependencies": {
     "global": "^4.3.2",
     "react": "^16.4.1",
